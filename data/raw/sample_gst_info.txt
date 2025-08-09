@@ -1,0 +1,28 @@
+GST (Goods and Services Tax) Information for SMEs
+
+What is GST?
+GST is a comprehensive indirect tax on manufacture, sale and consumption of goods and services throughout India. It replaced multiple cascading taxes levied by the central and state governments.
+
+GST Rates:
+- 0% GST: Basic food items, books, newspapers
+- 5% GST: Essential items like packaged food items, footwear below Rs 1000
+- 12% GST: Computers, processed food, mobile phones below Rs 2000
+- 18% GST: Most goods and services including restaurants with AC
+- 28% GST: Luxury items like cars, tobacco, aerated drinks
+
+GSTR-1 Filing:
+GSTR-1 is monthly return showing outward supplies. Due date is 11th of next month.
+Late fee: Rs 50 per day (maximum Rs 5000).
+
+GSTR-3B Filing:
+GSTR-3B is monthly summary return with tax payment. Due date is 20th of next month.
+Late fee: Rs 50 per day for taxpayers with turnover above Rs 5 crore.
+Late fee: Rs 20 per day for others.
+
+Input Tax Credit:
+Input tax credit can be claimed on goods and services used for business purposes.
+Cannot claim ITC on motor cars, food and beverages, outdoor catering, beauty treatment.
+
+Section 80C Deductions:
+Maximum deduction allowed under Section 80C is Rs 1.5 lakh per financial year.
+Eligible investments: PPF, ELSS, NSC, ULIP, Home loan principal, tuition fees.

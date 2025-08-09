@@ -1,0 +1,24 @@
+# Core RAG Framework
+langchain==0.1.0
+langchain-openai==0.0.2
+langchain-community==0.0.10
+
+# Vector Database
+chromadb==0.4.22
+
+# API Framework
+fastapi==0.108.0
+uvicorn==0.25.0
+
+# Document Processing
+pypdf2==3.0.1
+pandas==2.1.4
+
+# Environment Management
+python-dotenv==1.0.0
+
+# Basic Testing
+pytest==7.4.3
+
+sentence-transformers==2.2.2
+torch==2.1.2
