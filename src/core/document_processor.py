@@ -26,7 +26,7 @@ class ComplianceDocumentProcessor:
         """Convert text into Document objects with metadata"""
         chunks = self.text_splitter.split_text(text)
         
-        documents = []
+        documents = [] 
         for i, chunk in enumerate(chunks):
             doc = Document(
                 page_content=chunk,
@@ -38,7 +38,7 @@ class ComplianceDocumentProcessor:
                 }
             )
             documents.append(doc)
-        
+    
         return documents
     
     def process_file(self, file_path: str) -> List[Document]:
